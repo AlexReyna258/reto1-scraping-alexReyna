@@ -19,10 +19,10 @@
 
 -- Periodo
 
-- Extraer informacion de experiencias laborales
+-- Extraer informacion de experiencias laborales
 
 -- Empresa
 
--- Periodo
-
 -- Funciones
+
+-- linkedin https://www.linkedin.com/in/alfredo-vazquez/
